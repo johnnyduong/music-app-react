@@ -1,0 +1,41 @@
+body,
+html,
+#root {
+  height: 100%;
+}
+
+html {
+  font-size: 10px;
+}
+
+h1 {
+  padding: 0.77rem 0;
+  background-color: rgb(131, 66, 66);
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-size:1.88rem;
+  color:white;
+}
+
+h1 .highlight{
+  color: blue;
+}
+
+a{
+  text-decoration: none;
+  color: white; 
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size:1.55rem;
+}
+
+.App {
+  height: 100%;
+  padding: 0 17% 10% 17%;
+  background-color: black;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  color: white;
+}
